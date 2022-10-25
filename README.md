@@ -1,6 +1,8 @@
 ![Hi, I'm Nicole: Software Engineer README.md Header](https://user-images.githubusercontent.com/111663583/197679525-e396b425-3d5f-49c3-97c0-503bd7932d92.gif)
 
-<h3 align="center">Full-Stack Developer from San Francisco</h1>
+
+![SECOND HEADER](https://user-images.githubusercontent.com/111663583/197684865-1c6d3cf6-918a-4513-854e-1f45ab0bff92.gif)
+
 
 - 🔭 I’m currently working on [leveling up in Codewars](https://github.com/nicoledicochea/codewar-solutions).
 
