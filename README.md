@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Nicole Dicochea</h1>
-<h3 align="center">A Creative Full-Stack Developer from the San Francisco Bay Area</h3>
+![Hi, I'm Nicole: Software Engineer README.md Header](https://user-images.githubusercontent.com/111663583/197679525-e396b425-3d5f-49c3-97c0-503bd7932d92.gif)
+
+<h3 align="center">Full-Stack Developer from San Francisco</h1>
 
 - 🔭 I’m currently working on [leveling up in Codewars](https://github.com/nicoledicochea/codewar-solutions).
 
-- 👯 I’m looking to collaborate on **fun little projects with other engineers (ie. games, web apps)**.
+- 👯 I’m looking to collaborate on **fun, small projects with other engineers (ie. games, web apps)**.
 
 - 🤝 I’m looking for help with **building my tech community. [Let's Connect!](https://twitter.com/nicoledicochea)**
 
-- 👨‍💻 All of my projects are available at [https://nicoledicochea.netlify.app/](https://nicoledicochea.netlify.app/)
+- 👨‍💻 All of my projects are available on [My Website](https://nicoledicochea.netlify.app/)
 
 - 💬 Ask me about **my favorite free apis**.
 
