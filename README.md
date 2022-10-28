@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available on [My Website](https://nicoledicochea.netlify.app/)
 
-- 💬 Ask me about **my favorite free apis**.
+- 💬 Ask me about **my favorite free, public apis**.
 
 - ⚡ Fun fact **I collect movie tickets!**
 
