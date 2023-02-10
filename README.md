@@ -16,16 +16,16 @@
   <tr>
     <td width="50%">
         <p align="center">
-            <b>Saving People, Hunting Things, <br>The API Business</b>
+            <b>LumiLab</b>
         </p>
         <p align="center">
-            <img alt="Screenshot of Saving People, Hunting Things, The API Business" width="300" src="https://user-images.githubusercontent.com/111663583/201507344-ad0ea063-1408-4794-ad52-dde4f7f3b189.gif">
+            <img alt="Screenshot of LumiLab Homepage" width="300" src="https://user-images.githubusercontent.com/111663583/218010069-7eb61449-b943-4c96-a258-589ba5f93c21.gif">
         </p> 
         <p align="justify">
-            <b>Javascript, CSS, HTML</b> — A public API to provide all the character data from the CW's television series <em>Supernatural</em> that anyone could ever need.
+            <b>Javascript, EJS, Tailwind</b> — A fullstack Lab Inventory Management web app. With LumiLab, staff can log in to view their Laboratory Inventory, add new stock, include important notes for specific items, and set reminders to restock.
         </p>
         <p align="center">
-            <a href="https://supernatural-the-api-business.onrender.com/" target="_blank">Project Website</a>  | <a href="https://github.com/nicoledicochea/savingPeople-huntingThings-theApiBusiness" target="_blank">Github Repo</a>
+            <a href="https://lumilab.onrender.com/" target="_blank">Project Website</a>  | <a href="https://github.com/nicoledicochea/lumi-lab" target="_blank">Github Repo</a>
         </p>
     </td>
     <td>
@@ -45,6 +45,20 @@
   </tr>
   <tr>
     <td width="50%">
+        <p align="center">
+            <b>Saving People, Hunting Things, <br>The API Business</b>
+        </p>
+        <p align="center">
+            <img alt="Screenshot of Saving People, Hunting Things, The API Business" width="300" src="https://user-images.githubusercontent.com/111663583/201507344-ad0ea063-1408-4794-ad52-dde4f7f3b189.gif">
+        </p> 
+        <p align="justify">
+            <b>Javascript, CSS, HTML</b> — A public API to provide all the character data from the CW's television series <em>Supernatural</em> that anyone could ever need.
+        </p>
+        <p align="center">
+            <a href="https://supernatural-the-api-business.onrender.com/" target="_blank">Project Website</a>  | <a href="https://github.com/nicoledicochea/savingPeople-huntingThings-theApiBusiness" target="_blank">Github Repo</a>
+        </p>
+    </td>
+    <td width="50%">
     <p align="center">
         <b>San Jose Solar Seekers <br>Picture of the Day</b>
     </p>
@@ -58,20 +72,7 @@
         <a href="https://nicoledicochea.github.io/nasa-picture-of-the-day/" target="_blank">Project Website</a>  | <a href="https://github.com/nicoledicochea/nasa-picture-of-the-day" target="_blank">Github Repo</a> 
     </p>
     </td>
-    <td width="50%">
-    <p align="center">
-        <b>So It Prose...</b>
-    </p>
-    <p align="center">
-        <img alt="Screenshot of San Jose Solar Seekers Picture of the Day" width="300" src="https://user-images.githubusercontent.com/111663583/201508162-80e4948d-30d4-44cd-85db-b3f2cbc0c26b.gif">
-    </p> 
-    <p align="justify">
-        <b>Javascript, CSS, HTML</b>— Generate a random poem. The application provides the following information: title, author, number of lines, and the poem itself.
-    </p>
-    <p align="center">
-        <a href="https://nicoledicochea.github.io/poetry-api/" target="_blank">Project Website</a>  | <a href="https://github.com/nicoledicochea/poetry-api" target="_blank">Github Repo</a> 
-    </p>
-    </td>
   </tr>
+  
 </tbody>
 </table>
