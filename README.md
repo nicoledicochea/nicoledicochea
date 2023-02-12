@@ -22,7 +22,7 @@
             <img alt="Screenshot of LumiLab Homepage" width="300" src="https://user-images.githubusercontent.com/111663583/218010069-7eb61449-b943-4c96-a258-589ba5f93c21.gif">
         </p> 
         <p align="justify">
-            <b>Javascript, EJS, Tailwind</b> — A fullstack Lab Inventory Management web app. With LumiLab, staff can log in to view their Laboratory Inventory, add new stock, include important notes for specific items, and set reminders to restock.
+            <b>Javascript, EJS, Tailwind</b> — A full stack Lab Inventory Management web app. With LumiLab, staff can log in to view their Laboratory Inventory, add new stock, include important notes for specific items, and set reminders to restock.
         </p>
         <p align="center">
             <a href="https://lumilab.onrender.com/" target="_blank">Project Website</a>  | <a href="https://github.com/nicoledicochea/lumi-lab" target="_blank">Github Repo</a>
