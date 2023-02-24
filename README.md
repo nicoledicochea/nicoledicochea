@@ -60,16 +60,16 @@
     </td>
     <td width="50%">
     <p align="center">
-        <b>San Jose Solar Seekers <br>Picture of the Day</b>
+        <b>The Scream Awards</b>
     </p>
     <p align="center">
-        <img alt="Screenshot of San Jose Solar Seekers Picture of the Day" width="300" src="https://user-images.githubusercontent.com/111663583/201509248-6e542c30-6e33-4eb1-af2c-0ad008a24e94.gif">
+        <img alt="Screenshot of The Scream Awards" width="300" src="https://user-images.githubusercontent.com/111663583/221277080-8b161467-caae-4d5a-af2c-7c31bcc25794.gif">
     </p> 
     <p align="justify">
-        <b>Javascript, CSS, HTML</b>— Find the picture of the day taken from the NASA database using their public API. This app allows you to search through all past NASA pictures of the day.
+        <b>Javascript, CSS, HTML</b>— This unofficial promotional app for Scream 6 asks the question, <i>what's your favorite scary movie?</i> A user's answer determines whether Ghostface lets them live or die. Do <i>you</i> have what it takes to survive?
     </p>
     <p align="center">
-        <a href="https://nicoledicochea.github.io/nasa-picture-of-the-day/" target="_blank">Project Website</a>  | <a href="https://github.com/nicoledicochea/nasa-picture-of-the-day" target="_blank">Github Repo</a> 
+        <a href="https://screamawards.cyclic.app/" target="_blank">Project Website</a>  | <a href="https://github.com/nicoledicochea/scream-awards" target="_blank">Github Repo</a> 
     </p>
     </td>
   </tr>
