@@ -66,7 +66,7 @@
         <img alt="Screenshot of The Scream Awards" width="300" src="https://user-images.githubusercontent.com/111663583/221277080-8b161467-caae-4d5a-af2c-7c31bcc25794.gif">
     </p> 
     <p align="justify">
-        <b>Javascript, CSS, HTML</b>— This unofficial promotional app for Scream 6 asks the question, <i>what's your favorite scary movie?</i> A user's answer determines whether Ghostface lets them live or die. Do <i>you</i> have what it takes to survive?
+        <b>Javascript, EJS, Tailwind</b>— This unofficial promotional app for Scream 6 asks the question, <i>what's your favorite scary movie?</i> A user's answer determines whether Ghostface lets them live or die. Do <i>you</i> have what it takes to survive?
     </p>
     <p align="center">
         <a href="https://screamawards.cyclic.app/" target="_blank">Project Website</a>  | <a href="https://github.com/nicoledicochea/scream-awards" target="_blank">Github Repo</a> 
