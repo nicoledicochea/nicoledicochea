@@ -25,7 +25,7 @@
             <b>Javascript, EJS, Tailwind</b> — A full-stack lab inventory management web app. With LumiLab, staff can log in to view inventory, add new stock, and set reminders to restock.
         </p>
         <p align="center">
-            <a href="https://lumilab.app/" target="_blank">Project Website</a>  | <a href="https://github.com/nicoledicochea/lumi-lab" target="_blank">Github Repo</a>
+            <a href="https://lumilab.cyclic.app/" target="_blank">Project Website</a>  | <a href="https://github.com/nicoledicochea/lumi-lab" target="_blank">Github Repo</a>
         </p>
     </td>
     <td>
