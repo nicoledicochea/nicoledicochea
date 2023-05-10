@@ -19,7 +19,7 @@
             <b>LumiLab</b>
         </p>
         <p align="center">
-            <img alt="Screenshot of LumiLab Homepage" width="300" src="https://user-images.githubusercontent.com/111663583/218010069-7eb61449-b943-4c96-a258-589ba5f93c21.gif">
+            <img alt="Screenshot of LumiLab Homepage" width="100%" src="https://user-images.githubusercontent.com/111663583/218010069-7eb61449-b943-4c96-a258-589ba5f93c21.gif">
         </p> 
         <p align="justify">
             <b>Javascript, EJS, Tailwind</b> — A full-stack lab inventory management web app. With LumiLab, staff can log in to view inventory, add new stock, and set reminders to restock.
@@ -33,7 +33,7 @@
             <b>Portfolio 2022</b>
         </p>
         <p align="center">
-            <img alt="Screenshot of Portfolio" width="300" src="https://user-images.githubusercontent.com/111663583/210286735-23768636-3b16-44e5-acf4-5b6748143c4b.gif">
+            <img alt="Screenshot of Portfolio" width="100%" src="https://user-images.githubusercontent.com/111663583/210286735-23768636-3b16-44e5-acf4-5b6748143c4b.gif">
         </p> 
         <p align="justify">
             <b>Javascript, CSS, HTML</b> — Portfolio Site including links to my projects and ways to get in contact with me.
@@ -49,7 +49,7 @@
             <b>Saving People, Hunting Things, <br>The API Business</b>
         </p>
         <p align="center">
-            <img alt="Screenshot of Saving People, Hunting Things, The API Business" width="300" src="https://user-images.githubusercontent.com/111663583/201507344-ad0ea063-1408-4794-ad52-dde4f7f3b189.gif">
+            <img alt="Screenshot of Saving People, Hunting Things, The API Business" width="100%" src="https://user-images.githubusercontent.com/111663583/201507344-ad0ea063-1408-4794-ad52-dde4f7f3b189.gif">
         </p> 
         <p align="justify">
             <b>Javascript, CSS, HTML</b> — A public API to provide all the character data from the CW's television series <em>Supernatural</em> that anyone could ever need.
@@ -63,7 +63,7 @@
         <b>The Scream Awards</b>
     </p>
     <p align="center">
-        <img alt="Screenshot of The Scream Awards" width="300" src="https://user-images.githubusercontent.com/111663583/221277080-8b161467-caae-4d5a-af2c-7c31bcc25794.gif">
+        <img alt="Screenshot of The Scream Awards" width="100%" src="https://user-images.githubusercontent.com/111663583/221277080-8b161467-caae-4d5a-af2c-7c31bcc25794.gif">
     </p> 
     <p align="justify">
         <b>Javascript, EJS, Tailwind</b>— This unofficial promotional app for Scream 6 asks the question, <i>what's your favorite scary movie?</i> A user's answer determines whether Ghostface lets them live or die. Do <i>you</i> have what it takes to survive?
