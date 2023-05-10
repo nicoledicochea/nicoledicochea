@@ -22,7 +22,7 @@
             <img alt="Screenshot of LumiLab Homepage" width="100%" src="https://user-images.githubusercontent.com/111663583/218010069-7eb61449-b943-4c96-a258-589ba5f93c21.gif">
         </p> 
         <p align="justify">
-            <b>Javascript, EJS, Tailwind</b> — A full-stack lab inventory management web app. With LumiLab, staff can log in to view inventory, add new stock, and set reminders to restock.
+            <b>Javascript, EJS, Tailwind</b> — A full-stack lab inventory management web app. With LumiLab, staff can log in to view inventory, add new items, and set reminders to restock.
         </p>
         <p align="center">
             <a href="https://lumilab.cyclic.app/" target="_blank">Project Website</a>  | <a href="https://github.com/nicoledicochea/lumi-lab" target="_blank">Github Repo</a>
@@ -52,7 +52,7 @@
             <img alt="Screenshot of Saving People, Hunting Things, The API Business" width="100%" src="https://user-images.githubusercontent.com/111663583/201507344-ad0ea063-1408-4794-ad52-dde4f7f3b189.gif">
         </p> 
         <p align="justify">
-            <b>Javascript, CSS, HTML</b> — A public API to provide all the character data from the CW's television series <em>Supernatural</em> that anyone could ever need.
+            <b>Javascript, CSS, HTML</b> — A free public API to provide all the character data from the popular television series <em>Supernatural</em> that anyone could ever need.
         </p>
         <p align="center">
             <a href="https://supernatural-api.cyclic.app/" target="_blank">Project Website</a>  | <a href="https://github.com/nicoledicochea/savingPeople-huntingThings-theApiBusiness" target="_blank">Github Repo</a>
